@@ -1,0 +1,9 @@
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Daftar_Absen.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Daftar_Karyawan.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Form2.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Form3.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Form1.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Main_Menu.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Resources.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA_Project.Slip_Gaji.resources
+D:\project-laras\SIA-project\SIA-project\obj\x86\Release\SIA-project.vbproj.GenerateResource.Cache
